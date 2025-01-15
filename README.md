@@ -28,6 +28,11 @@
 参考資料としてね。
 
 ## 参考文献
+* ChatGPT  
+https://chatgpt.com/  
+※「ここどんな文章構成にするのがいいと思う？」「この文章読みやすいかな？」みたいなことにしか使ってないです。  
+コアとなるコンテンツには一切AIを介入させていません。
+
 * Wikipedia - DMA Attack  
 https://en.wikipedia.org/wiki/DMA_attack
 
